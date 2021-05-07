@@ -38,7 +38,7 @@ public:
 
     void display() override {
         if(quekao!=5)
-        printf("%d %d %.1f\n",NO,quekao,sum);
+            printf("%d %d %.1f\n",NO,quekao,sum);
         else
             printf("%d %d\n",NO,quekao);
     }
@@ -56,7 +56,7 @@ public:
     }
 };
 int main(){
-    Person *PP[10];
+    Person *PP[10]={NULL};
     int flag = 1;
     int size=0;
     while(flag!=0){
@@ -78,10 +78,11 @@ int main(){
 
     }
     for(Person  *person:PP){
-        if(person!=NULL){
+        if(person!=nullptr){
             person->display();
-        }
+        }else
+            break;
     }
-
+    return 0;
 
 }

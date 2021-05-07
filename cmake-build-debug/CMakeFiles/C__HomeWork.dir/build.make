@@ -194,6 +194,44 @@ CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.s: cmake_fo
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.s /c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-3 师生信息管理.cpp"
 <<
 
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.obj: CMakeFiles\C__HomeWork.dir\flags.make
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.obj: "..\案例7_类的继承与派生\7-1 类的继承与派生.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-1_类的继承与派生.cpp.obj"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.obj /FdCMakeFiles\C__HomeWork.dir\ /FS -c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-1 类的继承与派生.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-1_类的继承与派生.cpp.i"
+	E:\vs2013\VC\bin\cl.exe > CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-1 类的继承与派生.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-1_类的继承与派生.cpp.s"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.s /c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-1 类的继承与派生.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj: CMakeFiles\C__HomeWork.dir\flags.make
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj: "..\案例7_类的继承与派生\7-4 马会飞.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-4_马会飞.cpp.obj"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj /FdCMakeFiles\C__HomeWork.dir\ /FS -c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-4 马会飞.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-4_马会飞.cpp.i"
+	E:\vs2013\VC\bin\cl.exe > CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-4 马会飞.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-4_马会飞.cpp.s"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.s /c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-4 马会飞.cpp"
+<<
+
 # Object files for target C__HomeWork
 C__HomeWork_OBJECTS = \
 "CMakeFiles\C__HomeWork.dir\main.cpp.obj" \
@@ -202,7 +240,9 @@ C__HomeWork_OBJECTS = \
 "CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-4_学生派生类.cpp.obj" \
 "CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.obj" \
 "CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj" \
-"CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.obj"
+"CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.obj" \
+"CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.obj" \
+"CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj"
 
 # External object files for target C__HomeWork
 C__HomeWork_EXTERNAL_OBJECTS =
@@ -214,9 +254,11 @@ C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-4_学生派生类.
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.obj
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.obj
+C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.obj
+C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\build.make
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable C__HomeWork.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable C__HomeWork.exe"
 	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\C__HomeWork.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- E:\vs2013\VC\bin\link.exe /nologo @CMakeFiles\C__HomeWork.dir\objects1.rsp @<<
  /out:C__HomeWork.exe /implib:C__HomeWork.lib /pdb:C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\C__HomeWork.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
