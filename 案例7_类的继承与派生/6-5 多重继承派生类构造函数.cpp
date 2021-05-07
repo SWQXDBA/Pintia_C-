@@ -31,6 +31,7 @@ using namespace std;
 //        cout<<"sex:"<<sex<<endl;
 //        cout<<"score:"<<score<<endl;
 //    }
+
 //protected:
 //    string name1;
 //    char sex;
