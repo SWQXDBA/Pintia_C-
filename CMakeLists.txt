@@ -3,4 +3,4 @@ project(C__HomeWork)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(C__HomeWork main.cpp "案例7_类的继承与派生/6-2 派生类的定义和使用.cpp" "案例7_类的继承与派生/6-3 派生类使用基类的成员函数.cpp" "案例7_类的继承与派生/6-4 学生派生类.cpp")
+add_executable(C__HomeWork main.cpp "案例7_类的继承与派生/6-2 派生类的定义和使用.cpp" "案例7_类的继承与派生/6-3 派生类使用基类的成员函数.cpp" "案例7_类的继承与派生/6-4 学生派生类.cpp" "案例7_类的继承与派生/6-5 多重继承派生类构造函数.cpp")

@@ -90,6 +90,9 @@
 		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/6-4 学生派生类.cpp">
 			<Option target="C__HomeWork"/>
 		</Unit>
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/多重继承派生类构造函数.cpp">
+			<Option target="C__HomeWork"/>
+		</Unit>
 		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
