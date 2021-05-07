@@ -235,32 +235,86 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-4_学生派生类.cpp.s
 .PHONY : 案例7_类的继承与派生\6-4_学生派生类.cpp.s
 
-案例7_类的继承与派生\多重继承派生类构造函数.obj: 案例7_类的继承与派生\多重继承派生类构造函数.cpp.obj
+案例7_类的继承与派生\6-5_多重继承派生类构造函数.obj: 案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.obj
 
-.PHONY : 案例7_类的继承与派生\多重继承派生类构造函数.obj
+.PHONY : 案例7_类的继承与派生\6-5_多重继承派生类构造函数.obj
 
 # target to build an object file
-案例7_类的继承与派生\多重继承派生类构造函数.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\多重继承派生类构造函数.cpp.obj
-.PHONY : 案例7_类的继承与派生\多重继承派生类构造函数.cpp.obj
+案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.obj
+.PHONY : 案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.obj
 
-案例7_类的继承与派生\多重继承派生类构造函数.i: 案例7_类的继承与派生\多重继承派生类构造函数.cpp.i
+案例7_类的继承与派生\6-5_多重继承派生类构造函数.i: 案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.i
 
-.PHONY : 案例7_类的继承与派生\多重继承派生类构造函数.i
+.PHONY : 案例7_类的继承与派生\6-5_多重继承派生类构造函数.i
 
 # target to preprocess a source file
-案例7_类的继承与派生\多重继承派生类构造函数.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\多重继承派生类构造函数.cpp.i
-.PHONY : 案例7_类的继承与派生\多重继承派生类构造函数.cpp.i
+案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.i
+.PHONY : 案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.i
 
-案例7_类的继承与派生\多重继承派生类构造函数.s: 案例7_类的继承与派生\多重继承派生类构造函数.cpp.s
+案例7_类的继承与派生\6-5_多重继承派生类构造函数.s: 案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.s
 
-.PHONY : 案例7_类的继承与派生\多重继承派生类构造函数.s
+.PHONY : 案例7_类的继承与派生\6-5_多重继承派生类构造函数.s
 
 # target to generate assembly for a file
-案例7_类的继承与派生\多重继承派生类构造函数.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\多重继承派生类构造函数.cpp.s
-.PHONY : 案例7_类的继承与派生\多重继承派生类构造函数.cpp.s
+案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.s
+.PHONY : 案例7_类的继承与派生\6-5_多重继承派生类构造函数.cpp.s
+
+案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.obj: 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj
+
+.PHONY : 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.obj
+
+# target to build an object file
+案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj
+.PHONY : 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj
+
+案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.i: 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.i
+
+.PHONY : 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.i
+
+# target to preprocess a source file
+案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.i
+.PHONY : 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.i
+
+案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.s: 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.s
+
+.PHONY : 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.s
+
+# target to generate assembly for a file
+案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.s
+.PHONY : 案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.s
+
+案例7_类的继承与派生\7-3_师生信息管理.obj: 案例7_类的继承与派生\7-3_师生信息管理.cpp.obj
+
+.PHONY : 案例7_类的继承与派生\7-3_师生信息管理.obj
+
+# target to build an object file
+案例7_类的继承与派生\7-3_师生信息管理.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.obj
+.PHONY : 案例7_类的继承与派生\7-3_师生信息管理.cpp.obj
+
+案例7_类的继承与派生\7-3_师生信息管理.i: 案例7_类的继承与派生\7-3_师生信息管理.cpp.i
+
+.PHONY : 案例7_类的继承与派生\7-3_师生信息管理.i
+
+# target to preprocess a source file
+案例7_类的继承与派生\7-3_师生信息管理.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.i
+.PHONY : 案例7_类的继承与派生\7-3_师生信息管理.cpp.i
+
+案例7_类的继承与派生\7-3_师生信息管理.s: 案例7_类的继承与派生\7-3_师生信息管理.cpp.s
+
+.PHONY : 案例7_类的继承与派生\7-3_师生信息管理.s
+
+# target to generate assembly for a file
+案例7_类的继承与派生\7-3_师生信息管理.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.s
+.PHONY : 案例7_类的继承与派生\7-3_师生信息管理.cpp.s
 
 # Help Target
 help:
@@ -283,9 +337,15 @@ help:
 	@echo ... 案例7_类的继承与派生/6-4_学生派生类.obj
 	@echo ... 案例7_类的继承与派生/6-4_学生派生类.i
 	@echo ... 案例7_类的继承与派生/6-4_学生派生类.s
-	@echo ... 案例7_类的继承与派生/多重继承派生类构造函数.obj
-	@echo ... 案例7_类的继承与派生/多重继承派生类构造函数.i
-	@echo ... 案例7_类的继承与派生/多重继承派生类构造函数.s
+	@echo ... 案例7_类的继承与派生/6-5_多重继承派生类构造函数.obj
+	@echo ... 案例7_类的继承与派生/6-5_多重继承派生类构造函数.i
+	@echo ... 案例7_类的继承与派生/6-5_多重继承派生类构造函数.s
+	@echo ... 案例7_类的继承与派生/7-2_定义基类Point和派生类Circle，求圆的周长.obj
+	@echo ... 案例7_类的继承与派生/7-2_定义基类Point和派生类Circle，求圆的周长.i
+	@echo ... 案例7_类的继承与派生/7-2_定义基类Point和派生类Circle，求圆的周长.s
+	@echo ... 案例7_类的继承与派生/7-3_师生信息管理.obj
+	@echo ... 案例7_类的继承与派生/7-3_师生信息管理.i
+	@echo ... 案例7_类的继承与派生/7-3_师生信息管理.s
 .PHONY : help
 
 

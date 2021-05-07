@@ -90,7 +90,13 @@
 		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/6-4 学生派生类.cpp">
 			<Option target="C__HomeWork"/>
 		</Unit>
-		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/多重继承派生类构造函数.cpp">
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/6-5 多重继承派生类构造函数.cpp">
+			<Option target="C__HomeWork"/>
+		</Unit>
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/7-2 定义基类Point和派生类Circle，求圆的周长.cpp">
+			<Option target="C__HomeWork"/>
+		</Unit>
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/7-3 师生信息管理.cpp">
 			<Option target="C__HomeWork"/>
 		</Unit>
 		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/CMakeLists.txt">
