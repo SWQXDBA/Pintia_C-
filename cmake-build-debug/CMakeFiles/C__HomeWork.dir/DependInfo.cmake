@@ -15,7 +15,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/7-4 马会飞.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-4_马会飞.cpp.obj"
   "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/6-2 Shape抽象类.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-2_Shape抽象类.cpp.obj"
   "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/6-4 日期类的设计与实现.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-4_日期类的设计与实现.cpp.obj"
-  "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/MyDate.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/MyDate.cpp.obj"
+  "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/7-5 2017Final进位与借位 (15 分).cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/7-5_2017Final进位与借位_(15_分).cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
