@@ -13,6 +13,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/7-2 定义基类Point和派生类Circle，求圆的周长.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj"
   "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/7-3 师生信息管理.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-3_师生信息管理.cpp.obj"
   "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/7-4 马会飞.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例7_类的继承与派生/7-4_马会飞.cpp.obj"
+  "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/6-2 Shape抽象类.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-2_Shape抽象类.cpp.obj"
+  "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/6-4 日期类的设计与实现.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-4_日期类的设计与实现.cpp.obj"
+  "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/MyDate.cpp" "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/MyDate.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

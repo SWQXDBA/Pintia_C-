@@ -105,6 +105,18 @@
 		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例7_类的继承与派生/7-4 马会飞.cpp">
 			<Option target="C__HomeWork"/>
 		</Unit>
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/6-2 Shape抽象类.cpp">
+			<Option target="C__HomeWork"/>
+		</Unit>
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/6-4 日期类的设计与实现.cpp">
+			<Option target="C__HomeWork"/>
+		</Unit>
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/MyDate.cpp">
+			<Option target="C__HomeWork"/>
+		</Unit>
+		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/案例8 类的多态性/MyDate.h">
+			<Option target="C__HomeWork"/>
+		</Unit>
 		<Unit filename="C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

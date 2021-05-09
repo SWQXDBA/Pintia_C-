@@ -232,6 +232,63 @@ CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.s /c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例7_类的继承与派生\7-4 马会飞.cpp"
 <<
 
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.obj: CMakeFiles\C__HomeWork.dir\flags.make
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.obj: "..\案例8 类的多态性\6-2 Shape抽象类.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-2_Shape抽象类.cpp.obj"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.obj /FdCMakeFiles\C__HomeWork.dir\ /FS -c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\6-2 Shape抽象类.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-2_Shape抽象类.cpp.i"
+	E:\vs2013\VC\bin\cl.exe > CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\6-2 Shape抽象类.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-2_Shape抽象类.cpp.s"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.s /c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\6-2 Shape抽象类.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj: CMakeFiles\C__HomeWork.dir\flags.make
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj: "..\案例8 类的多态性\6-4 日期类的设计与实现.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-4_日期类的设计与实现.cpp.obj"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj /FdCMakeFiles\C__HomeWork.dir\ /FS -c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\6-4 日期类的设计与实现.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-4_日期类的设计与实现.cpp.i"
+	E:\vs2013\VC\bin\cl.exe > CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\6-4 日期类的设计与实现.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-4_日期类的设计与实现.cpp.s"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.s /c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\6-4 日期类的设计与实现.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.obj: CMakeFiles\C__HomeWork.dir\flags.make
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.obj: "..\案例8 类的多态性\MyDate.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/C__HomeWork.dir/案例8_类的多态性/MyDate.cpp.obj"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.obj /FdCMakeFiles\C__HomeWork.dir\ /FS -c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\MyDate.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__HomeWork.dir/案例8_类的多态性/MyDate.cpp.i"
+	E:\vs2013\VC\bin\cl.exe > CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\MyDate.cpp"
+<<
+
+CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__HomeWork.dir/案例8_类的多态性/MyDate.cpp.s"
+	E:\vs2013\VC\bin\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.s /c "C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\案例8 类的多态性\MyDate.cpp"
+<<
+
 # Object files for target C__HomeWork
 C__HomeWork_OBJECTS = \
 "CMakeFiles\C__HomeWork.dir\main.cpp.obj" \
@@ -242,7 +299,10 @@ C__HomeWork_OBJECTS = \
 "CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-2_定义基类Point和派生类Circle，求圆的周长.cpp.obj" \
 "CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.obj" \
 "CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.obj" \
-"CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj"
+"CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj" \
+"CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.obj" \
+"CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj" \
+"CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.obj"
 
 # External object files for target C__HomeWork
 C__HomeWork_EXTERNAL_OBJECTS =
@@ -256,9 +316,12 @@ C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-2_定义基类Poi
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-3_师生信息管理.cpp.obj
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-1_类的继承与派生.cpp.obj
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.obj
+C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.obj
+C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj
+C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.obj
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\build.make
 C__HomeWork.exe: CMakeFiles\C__HomeWork.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable C__HomeWork.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable C__HomeWork.exe"
 	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\C__HomeWork.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- E:\vs2013\VC\bin\link.exe /nologo @CMakeFiles\C__HomeWork.dir\objects1.rsp @<<
  /out:C__HomeWork.exe /implib:C__HomeWork.lib /pdb:C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\C__HomeWork.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

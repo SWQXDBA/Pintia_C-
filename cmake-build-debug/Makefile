@@ -370,6 +370,87 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例7_类的继承与派生\7-4_马会飞.cpp.s
 .PHONY : 案例7_类的继承与派生\7-4_马会飞.cpp.s
 
+案例8_类的多态性\6-2_Shape抽象类.obj: 案例8_类的多态性\6-2_Shape抽象类.cpp.obj
+
+.PHONY : 案例8_类的多态性\6-2_Shape抽象类.obj
+
+# target to build an object file
+案例8_类的多态性\6-2_Shape抽象类.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.obj
+.PHONY : 案例8_类的多态性\6-2_Shape抽象类.cpp.obj
+
+案例8_类的多态性\6-2_Shape抽象类.i: 案例8_类的多态性\6-2_Shape抽象类.cpp.i
+
+.PHONY : 案例8_类的多态性\6-2_Shape抽象类.i
+
+# target to preprocess a source file
+案例8_类的多态性\6-2_Shape抽象类.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.i
+.PHONY : 案例8_类的多态性\6-2_Shape抽象类.cpp.i
+
+案例8_类的多态性\6-2_Shape抽象类.s: 案例8_类的多态性\6-2_Shape抽象类.cpp.s
+
+.PHONY : 案例8_类的多态性\6-2_Shape抽象类.s
+
+# target to generate assembly for a file
+案例8_类的多态性\6-2_Shape抽象类.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.s
+.PHONY : 案例8_类的多态性\6-2_Shape抽象类.cpp.s
+
+案例8_类的多态性\6-4_日期类的设计与实现.obj: 案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj
+
+.PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.obj
+
+# target to build an object file
+案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj
+.PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj
+
+案例8_类的多态性\6-4_日期类的设计与实现.i: 案例8_类的多态性\6-4_日期类的设计与实现.cpp.i
+
+.PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.i
+
+# target to preprocess a source file
+案例8_类的多态性\6-4_日期类的设计与实现.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.i
+.PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.cpp.i
+
+案例8_类的多态性\6-4_日期类的设计与实现.s: 案例8_类的多态性\6-4_日期类的设计与实现.cpp.s
+
+.PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.s
+
+# target to generate assembly for a file
+案例8_类的多态性\6-4_日期类的设计与实现.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.s
+.PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.cpp.s
+
+案例8_类的多态性\MyDate.obj: 案例8_类的多态性\MyDate.cpp.obj
+
+.PHONY : 案例8_类的多态性\MyDate.obj
+
+# target to build an object file
+案例8_类的多态性\MyDate.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.obj
+.PHONY : 案例8_类的多态性\MyDate.cpp.obj
+
+案例8_类的多态性\MyDate.i: 案例8_类的多态性\MyDate.cpp.i
+
+.PHONY : 案例8_类的多态性\MyDate.i
+
+# target to preprocess a source file
+案例8_类的多态性\MyDate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.i
+.PHONY : 案例8_类的多态性\MyDate.cpp.i
+
+案例8_类的多态性\MyDate.s: 案例8_类的多态性\MyDate.cpp.s
+
+.PHONY : 案例8_类的多态性\MyDate.s
+
+# target to generate assembly for a file
+案例8_类的多态性\MyDate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\MyDate.cpp.s
+.PHONY : 案例8_类的多态性\MyDate.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -406,6 +487,15 @@ help:
 	@echo ... 案例7_类的继承与派生/7-4_马会飞.obj
 	@echo ... 案例7_类的继承与派生/7-4_马会飞.i
 	@echo ... 案例7_类的继承与派生/7-4_马会飞.s
+	@echo ... 案例8_类的多态性/6-2_Shape抽象类.obj
+	@echo ... 案例8_类的多态性/6-2_Shape抽象类.i
+	@echo ... 案例8_类的多态性/6-2_Shape抽象类.s
+	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.obj
+	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.i
+	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.s
+	@echo ... 案例8_类的多态性/MyDate.obj
+	@echo ... 案例8_类的多态性/MyDate.i
+	@echo ... 案例8_类的多态性/MyDate.s
 .PHONY : help
 
 
