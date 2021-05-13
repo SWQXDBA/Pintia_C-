@@ -43,19 +43,19 @@ NULL=nul
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\SWQXDBA2\CLionProjects\C++HomeWork
+CMAKE_SOURCE_DIR = C:\Users\SWQXDBA\CLionProjects\Pintia_C-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\SWQXDBA\CLionProjects\Pintia_C-\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -63,7 +63,7 @@ CMAKE_BINARY_DIR = C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -74,7 +74,7 @@ edit_cache\fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -84,9 +84,9 @@ rebuild_cache\fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\SWQXDBA\CLionProjects\Pintia_C-\cmake-build-debug\CMakeFiles C:\Users\SWQXDBA\CLionProjects\Pintia_C-\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\SWQXDBA2\CLionProjects\C++HomeWork\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\SWQXDBA\CLionProjects\Pintia_C-\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -397,6 +397,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-2_Shape抽象类.cpp.s
 .PHONY : 案例8_类的多态性\6-2_Shape抽象类.cpp.s
 
+案例8_类的多态性\6-3_从shape类派生出一个正n边形.obj: 案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.obj
+
+.PHONY : 案例8_类的多态性\6-3_从shape类派生出一个正n边形.obj
+
+# target to build an object file
+案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.obj
+.PHONY : 案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.obj
+
+案例8_类的多态性\6-3_从shape类派生出一个正n边形.i: 案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.i
+
+.PHONY : 案例8_类的多态性\6-3_从shape类派生出一个正n边形.i
+
+# target to preprocess a source file
+案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.i
+.PHONY : 案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.i
+
+案例8_类的多态性\6-3_从shape类派生出一个正n边形.s: 案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.s
+
+.PHONY : 案例8_类的多态性\6-3_从shape类派生出一个正n边形.s
+
+# target to generate assembly for a file
+案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.s
+.PHONY : 案例8_类的多态性\6-3_从shape类派生出一个正n边形.cpp.s
+
 案例8_类的多态性\6-4_日期类的设计与实现.obj: 案例8_类的多态性\6-4_日期类的设计与实现.cpp.obj
 
 .PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.obj
@@ -490,6 +517,9 @@ help:
 	@echo ... 案例8_类的多态性/6-2_Shape抽象类.obj
 	@echo ... 案例8_类的多态性/6-2_Shape抽象类.i
 	@echo ... 案例8_类的多态性/6-2_Shape抽象类.s
+	@echo ... 案例8_类的多态性/6-3_从shape类派生出一个正n边形.obj
+	@echo ... 案例8_类的多态性/6-3_从shape类派生出一个正n边形.i
+	@echo ... 案例8_类的多态性/6-3_从shape类派生出一个正n边形.s
 	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.obj
 	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.i
 	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.s

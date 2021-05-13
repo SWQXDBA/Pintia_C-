@@ -1,6 +1,6 @@
 The system is: Windows - 10.0.19041 - AMD64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-Compiler: E:/vs2013/VC/bin/cl.exe 
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe 
 Build flags: 
 Id flags:  
 
@@ -20,10 +20,10 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-Compiler: E:/vs2013/VC/bin/cl.exe 
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe 
 Build flags: 
 Id flags:  
 
@@ -43,67 +43,67 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_534f5\fast && 	E:\vs2013\VC\BIN\nmake.exe  -f CMakeFiles\cmTC_534f5.dir\build.make /nologo -L                  CMakeFiles\cmTC_534f5.dir\build
-Building C object CMakeFiles/cmTC_534f5.dir/testCCompiler.c.obj
-	E:\vs2013\VC\bin\cl.exe @C:\Users\SWQXDBA2\AppData\Local\Temp\nmDA82.tmp
+Run Build Command(s):nmake /nologo cmTC_b011e\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_b011e.dir\build.make /nologo -L                  CMakeFiles\cmTC_b011e.dir\build
+Building C object CMakeFiles/cmTC_b011e.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\SWQXDBA\AppData\Local\Temp\nmD389.tmp
 testCCompiler.c
-Linking C executable cmTC_534f5.exe
-	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_534f5.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- E:\vs2013\VC\bin\link.exe /nologo @CMakeFiles\cmTC_534f5.dir\objects1.rsp @C:\Users\SWQXDBA2\AppData\Local\Temp\nmDC0A.tmp
+Linking C executable cmTC_b011e.exe
+	C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b011e.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_b011e.dir\objects1.rsp @C:\Users\SWQXDBA\AppData\Local\Temp\nmD4F1.tmp
 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_74761\fast && 	E:\vs2013\VC\BIN\nmake.exe  -f CMakeFiles\cmTC_74761.dir\build.make /nologo -L                  CMakeFiles\cmTC_74761.dir\build
-Building C object CMakeFiles/cmTC_74761.dir/CMakeCCompilerABI.c.obj
-	E:\vs2013\VC\bin\cl.exe @C:\Users\SWQXDBA2\AppData\Local\Temp\nmDF55.tmp
+Run Build Command(s):nmake /nologo cmTC_c6493\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_c6493.dir\build.make /nologo -L                  CMakeFiles\cmTC_c6493.dir\build
+Building C object CMakeFiles/cmTC_c6493.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\SWQXDBA\AppData\Local\Temp\nmD7AF.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_74761.exe
-	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_74761.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- E:\vs2013\VC\bin\link.exe /nologo @CMakeFiles\cmTC_74761.dir\objects1.rsp @C:\Users\SWQXDBA2\AppData\Local\Temp\nmDFE2.tmp
+Linking C executable cmTC_c6493.exe
+	C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_c6493.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_c6493.dir\objects1.rsp @C:\Users\SWQXDBA\AppData\Local\Temp\nmD82D.tmp
 
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_00142\fast && 	E:\vs2013\VC\BIN\nmake.exe  -f CMakeFiles\cmTC_00142.dir\build.make /nologo -L                  CMakeFiles\cmTC_00142.dir\build
-Building CXX object CMakeFiles/cmTC_00142.dir/testCXXCompiler.cxx.obj
-	E:\vs2013\VC\bin\cl.exe @C:\Users\SWQXDBA2\AppData\Local\Temp\nmE2FE.tmp
+Run Build Command(s):nmake /nologo cmTC_14ab0\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_14ab0.dir\build.make /nologo -L                  CMakeFiles\cmTC_14ab0.dir\build
+Building CXX object CMakeFiles/cmTC_14ab0.dir/testCXXCompiler.cxx.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\SWQXDBA\AppData\Local\Temp\nmDAEB.tmp
 testCXXCompiler.cxx
-Linking CXX executable cmTC_00142.exe
-	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_00142.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- E:\vs2013\VC\bin\link.exe /nologo @CMakeFiles\cmTC_00142.dir\objects1.rsp @C:\Users\SWQXDBA2\AppData\Local\Temp\nmE38C.tmp
+Linking CXX executable cmTC_14ab0.exe
+	C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_14ab0.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_14ab0.dir\objects1.rsp @C:\Users\SWQXDBA\AppData\Local\Temp\nmDB4A.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_133f5\fast && 	E:\vs2013\VC\BIN\nmake.exe  -f CMakeFiles\cmTC_133f5.dir\build.make /nologo -L                  CMakeFiles\cmTC_133f5.dir\build
-Building CXX object CMakeFiles/cmTC_133f5.dir/CMakeCXXCompilerABI.cpp.obj
-	E:\vs2013\VC\bin\cl.exe @C:\Users\SWQXDBA2\AppData\Local\Temp\nmE689.tmp
+Run Build Command(s):nmake /nologo cmTC_dfec4\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_dfec4.dir\build.make /nologo -L                  CMakeFiles\cmTC_dfec4.dir\build
+Building CXX object CMakeFiles/cmTC_dfec4.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\SWQXDBA\AppData\Local\Temp\nmDDBA.tmp
 CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_133f5.exe
-	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_133f5.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- E:\vs2013\VC\bin\link.exe /nologo @CMakeFiles\cmTC_133f5.dir\objects1.rsp @C:\Users\SWQXDBA2\AppData\Local\Temp\nmE726.tmp
+Linking CXX executable cmTC_dfec4.exe
+	C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_dfec4.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_dfec4.dir\objects1.rsp @C:\Users\SWQXDBA\AppData\Local\Temp\nmDE29.tmp
 
 
 
 
 
 Detecting CXX [] compiler features compiled with the following output:
-Change Dir: C:/Users/SWQXDBA2/CLionProjects/C++HomeWork/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_de47d\fast && 	E:\vs2013\VC\BIN\nmake.exe  -f CMakeFiles\cmTC_de47d.dir\build.make /nologo -L                  CMakeFiles\cmTC_de47d.dir\build
-Building CXX object CMakeFiles/cmTC_de47d.dir/feature_tests.cxx.obj
-	E:\vs2013\VC\bin\cl.exe @C:\Users\SWQXDBA2\AppData\Local\Temp\nmEA51.tmp
+Run Build Command(s):nmake /nologo cmTC_b1ea9\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_b1ea9.dir\build.make /nologo -L                  CMakeFiles\cmTC_b1ea9.dir\build
+Building CXX object CMakeFiles/cmTC_b1ea9.dir/feature_tests.cxx.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\SWQXDBA\AppData\Local\Temp\nmE0F6.tmp
 feature_tests.cxx
-Linking CXX executable cmTC_de47d.exe
-	C:\Users\SWQXDBA2\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_de47d.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- E:\vs2013\VC\bin\link.exe /nologo @CMakeFiles\cmTC_de47d.dir\objects1.rsp @C:\Users\SWQXDBA2\AppData\Local\Temp\nmEADF.tmp
+Linking CXX executable cmTC_b1ea9.exe
+	C:\Users\SWQXDBA\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b1ea9.dir --rc=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_b1ea9.dir\objects1.rsp @C:\Users\SWQXDBA\AppData\Local\Temp\nmE155.tmp
 
 
 
