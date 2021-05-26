@@ -16,6 +16,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/案例8 类的多态性/6-2 Shape抽象类.cpp" "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-2_Shape抽象类.cpp.obj"
   "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/案例8 类的多态性/6-3 从shape类派生出一个正n边形.cpp" "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-3_从shape类派生出一个正n边形.cpp.obj"
   "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/案例8 类的多态性/6-4 日期类的设计与实现.cpp" "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/6-4_日期类的设计与实现.cpp.obj"
+  "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/案例8 类的多态性/7-1 分数加法运算重载.cpp" "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/7-1_分数加法运算重载.cpp.obj"
+  "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/案例8 类的多态性/7-3 复数类的运算.cpp" "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/7-3_复数类的运算.cpp.obj"
   "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/案例8 类的多态性/7-5 2017Final进位与借位 (15 分).cpp" "C:/Users/SWQXDBA/CLionProjects/Pintia_C-/cmake-build-debug/CMakeFiles/C__HomeWork.dir/案例8_类的多态性/7-5_2017Final进位与借位_(15_分).cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

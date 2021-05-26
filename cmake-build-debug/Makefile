@@ -451,6 +451,60 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\6-4_日期类的设计与实现.cpp.s
 .PHONY : 案例8_类的多态性\6-4_日期类的设计与实现.cpp.s
 
+案例8_类的多态性\7-1_分数加法运算重载.obj: 案例8_类的多态性\7-1_分数加法运算重载.cpp.obj
+
+.PHONY : 案例8_类的多态性\7-1_分数加法运算重载.obj
+
+# target to build an object file
+案例8_类的多态性\7-1_分数加法运算重载.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\7-1_分数加法运算重载.cpp.obj
+.PHONY : 案例8_类的多态性\7-1_分数加法运算重载.cpp.obj
+
+案例8_类的多态性\7-1_分数加法运算重载.i: 案例8_类的多态性\7-1_分数加法运算重载.cpp.i
+
+.PHONY : 案例8_类的多态性\7-1_分数加法运算重载.i
+
+# target to preprocess a source file
+案例8_类的多态性\7-1_分数加法运算重载.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\7-1_分数加法运算重载.cpp.i
+.PHONY : 案例8_类的多态性\7-1_分数加法运算重载.cpp.i
+
+案例8_类的多态性\7-1_分数加法运算重载.s: 案例8_类的多态性\7-1_分数加法运算重载.cpp.s
+
+.PHONY : 案例8_类的多态性\7-1_分数加法运算重载.s
+
+# target to generate assembly for a file
+案例8_类的多态性\7-1_分数加法运算重载.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\7-1_分数加法运算重载.cpp.s
+.PHONY : 案例8_类的多态性\7-1_分数加法运算重载.cpp.s
+
+案例8_类的多态性\7-3_复数类的运算.obj: 案例8_类的多态性\7-3_复数类的运算.cpp.obj
+
+.PHONY : 案例8_类的多态性\7-3_复数类的运算.obj
+
+# target to build an object file
+案例8_类的多态性\7-3_复数类的运算.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\7-3_复数类的运算.cpp.obj
+.PHONY : 案例8_类的多态性\7-3_复数类的运算.cpp.obj
+
+案例8_类的多态性\7-3_复数类的运算.i: 案例8_类的多态性\7-3_复数类的运算.cpp.i
+
+.PHONY : 案例8_类的多态性\7-3_复数类的运算.i
+
+# target to preprocess a source file
+案例8_类的多态性\7-3_复数类的运算.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\7-3_复数类的运算.cpp.i
+.PHONY : 案例8_类的多态性\7-3_复数类的运算.cpp.i
+
+案例8_类的多态性\7-3_复数类的运算.s: 案例8_类的多态性\7-3_复数类的运算.cpp.s
+
+.PHONY : 案例8_类的多态性\7-3_复数类的运算.s
+
+# target to generate assembly for a file
+案例8_类的多态性\7-3_复数类的运算.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C__HomeWork.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\C__HomeWork.dir\案例8_类的多态性\7-3_复数类的运算.cpp.s
+.PHONY : 案例8_类的多态性\7-3_复数类的运算.cpp.s
+
 案例8_类的多态性\7-5_2017Final进位与借位_(15_分).obj: 案例8_类的多态性\7-5_2017Final进位与借位_(15_分).cpp.obj
 
 .PHONY : 案例8_类的多态性\7-5_2017Final进位与借位_(15_分).obj
@@ -523,6 +577,12 @@ help:
 	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.obj
 	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.i
 	@echo ... 案例8_类的多态性/6-4_日期类的设计与实现.s
+	@echo ... 案例8_类的多态性/7-1_分数加法运算重载.obj
+	@echo ... 案例8_类的多态性/7-1_分数加法运算重载.i
+	@echo ... 案例8_类的多态性/7-1_分数加法运算重载.s
+	@echo ... 案例8_类的多态性/7-3_复数类的运算.obj
+	@echo ... 案例8_类的多态性/7-3_复数类的运算.i
+	@echo ... 案例8_类的多态性/7-3_复数类的运算.s
 	@echo ... 案例8_类的多态性/7-5_2017Final进位与借位_(15_分).obj
 	@echo ... 案例8_类的多态性/7-5_2017Final进位与借位_(15_分).i
 	@echo ... 案例8_类的多态性/7-5_2017Final进位与借位_(15_分).s
